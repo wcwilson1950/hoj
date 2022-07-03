@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { builtinModules } = require('module');
 const { file_size, dir_size } = require('./f_size');
 
 const dir_walk = (top, filefn, dirfn) => {
@@ -18,6 +19,5 @@ const dir_walk = (top, filefn, dirfn) => {
         //     console.log(files);
     }
 }
-const get_size = (path) => fs.statSync(path).size;
 
-// dir_walk('/Users/williamwilson/Downloads', file_size, dir_size);
+module.exports = dir_walk;
