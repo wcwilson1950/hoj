@@ -1,0 +1,25 @@
+{
+  "name": "hoj",
+  "version": "1.0.0",
+  "description": "Higher Order Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcwilson1950/hoj.git"
+  },
+  "keywords": [
+    "functional"
+  ],
+  "author": "Bill Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcwilson1950/hoj/issues"
+  },
+  "homepage": "https://github.com/wcwilson1950/hoj#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
