@@ -1,5 +1,5 @@
 # hoj
-This responsitory is based on the book Higher Order Perl. I can read Pearl. Translating to javascript helps me understand the language better and extend my knowledge of javascript.
+This respository is based on the book Higher Order Perl. I can read Pearl. Translating to javascript helps me understand the language better and extend my knowledge of javascript.
 
 The website, [Higher Order Javascript](https://interglacial.com/hoj/hoj.html#HOJ.0:_Functional_JavaScript_Reviewed) is also a source of inspiration for these experiments. This site is based on earlier versions of javascript and a lot of the language changes not shown.  
 
